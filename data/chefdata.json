@@ -1,0 +1,306 @@
+[
+    {
+        "c_id": 1,
+        "c_image": "https://example.com/chef1.jpg",
+        "c_name": "Ayesha Ahmed",
+        "year_of_experience": 12,
+        "num_of_recipes": 25,
+        "num_of_likes": 1000,
+        "c_description": "Ayesha Ahmed is a renowned Bangladeshi chef with over 12 years of experience in the culinary industry. Her dishes are inspired by traditional Bangladeshi cuisine, with a modern twist that appeals to food lovers from all over the world.",
+        "recipes": [
+            {
+                "r_id": 1,
+                "r_name": "Pitha",
+                "r_image": "https://example.com/pitha.jpg",
+                "ingredients": [
+                    "Rice Flour",
+                    "Coconut",
+                    "Jaggery",
+                    "Cardamom",
+                    "Oil"
+                ],
+                "cooking_method": "1. Mix rice flour, coconut, jaggery and cardamom. 2. Knead to make dough. 3. Make small balls and flatten. 4. Fry in oil until golden brown.",
+                "rating": 4.5
+            },
+            {
+                "r_id": 2,
+                "r_name": "Chingri Malai Curry",
+                "r_image": "https://example.com/chingri_malai_curry.jpg",
+                "ingredients": [
+                    "Prawns",
+                    "Coconut Milk",
+                    "Onion",
+                    "Garlic",
+                    "Ginger"
+                ],
+                "cooking_method": "1. Fry prawns until golden brown. 2. Saute onions, garlic and ginger. 3. Add coconut milk and cook for 10 minutes. 4. Add prawns and cook for another 5 minutes.",
+                "rating": 4.7
+            },
+            {
+                "r_id": 3,
+                "r_name": "Bhapa Pitha",
+                "r_image": "https://example.com/bhapa_pitha.jpg",
+                "ingredients": [
+                    "Rice Flour",
+                    "Jaggery",
+                    "Coconut Milk",
+                    "Cardamom",
+                    "Water"
+                ],
+                "cooking_method": "1. Mix rice flour, jaggery, coconut milk, cardamom and water. 2. Pour the mixture into a greased dish. 3. Steam for 30 minutes.",
+                "rating": 4.2
+            }
+        ]
+    },
+    {
+        "c_id": 2,
+        "c_image": "https://example.com/chef2.jpg",
+        "c_name": "Rahat Rahman",
+        "year_of_experience": 15,
+        "num_of_recipes": 30,
+        "num_of_likes": 1200,
+        "c_description": "Rahat Rahman is a highly experienced Bangladeshi chef who has been in the culinary industry for over 15 years. He specializes in traditional Bangladeshi cuisine and is known for his unique flavors and techniques.",
+        "recipes": [
+            {
+                "r_id": 1,
+                "recipe_name": "Beef Kala Bhuna",
+                "ingredients": [
+                    "Beef",
+                    "Onion",
+                    "Garlic",
+                    "Ginger",
+                    "Spices"
+                ],
+                "cooking_method": "1. Fry onions until golden brown. 2. Add beef and cook until browned. 3. Add garlic and ginger and cook for 2-3 minutes. 4. Add spices and cook until the beef is tender.",
+                "rating": 4.3
+            },
+            {
+                "r_id": 2,
+                "recipe_name": "Chapli Kebab",
+                "ingredients": [
+                    "Minced Beef",
+                    "Onion",
+                    "Tomato",
+                    "Green Chili",
+                    "Spices"
+                ],
+                "cooking_method": "1. Mix minced beef with onion, tomato, green chili, and spices. 2. Shape into small patties. 3. Fry in oil until golden brown.",
+                "rating": 4.5
+            },
+            {
+                "r_id": 3,
+                "r_name": "Bhapa Pitha",
+                "r_image": "https://example.com/bhapa_pitha.jpg",
+                "ingredients": [
+                    "Rice Flour",
+                    "Jaggery",
+                    "Coconut Milk",
+                    "Cardamom",
+                    "Water"
+                ],
+                "cooking_method": "1. Mix rice flour, jaggery, coconut milk, cardamom and water. 2. Pour the mixture into a greased dish. 3. Steam for 30 minutes.",
+                "rating": 4.2
+            }
+        ]
+    },
+    {
+        "c_id": 3,
+        "c_image": "https://example.com/chef.jpg",
+        "c_name": "Farhana Rahman",
+        "year_of_experience": 10,
+        "num_of_recipes": 20,
+        "num_of_likes": 500,
+        "c_description": "Farhana Rahman is a renowned Bangladeshi chef with over 10 years of experience in the culinary industry. Her dishes are inspired by traditional Bangladeshi cuisine, with a modern twist that appeals to food lovers from all over the world.",
+        "recipes": [
+            {
+                "r_id": 1,
+                "recipe_name": "Chicken Biryani",
+                "ingredients": [
+                    "Basmati Rice",
+                    "Chicken",
+                    "Onion",
+                    "Tomato",
+                    "Spices"
+                ],
+                "cooking_method": "1. Cook rice and chicken separately. 2. Mix together with sautéed onions, tomatoes and spices. 3. Cook for 10 minutes.",
+                "rating": 4.5
+            },
+            {
+                "r_id": 2,
+                "recipe_name": "Fish Curry",
+                "ingredients": [
+                    "Fish",
+                    "Onion",
+                    "Garlic",
+                    "Ginger",
+                    "Spices"
+                ],
+                "cooking_method": "1. Fry fish until golden brown. 2. Saute onions, garlic and ginger. 3. Add spices and cook for 5 minutes. 4. Add fish and cook for another 10 minutes.",
+                "rating": 4.2
+            },
+            {
+                "r_id": 3,
+                "recipe_name": "Lentil Soup",
+                "ingredients": [
+                    "Lentils",
+                    "Onion",
+                    "Garlic",
+                    "Ginger",
+                    "Spices"
+                ],
+                "cooking_method": "1. Boil lentils until tender. 2. Saute onions, garlic and ginger. 3. Add spices and cook for 5 minutes. 4. Add lentils and cook for another 10 minutes.",
+                "rating": 4.0
+            }
+        ]
+    },
+    {
+        "c_id": 4,
+        "c_image": "https://example.com/chef1.jpg",
+        "c_name": "Nazrul Islam",
+        "year_of_experience": 10,
+        "num_of_recipes": 20,
+        "num_of_likes": 800,
+        "c_description": "Nazrul Islam is a talented Bangladeshi chef with 10 years of experience in cooking. He specializes in creating traditional Bangladeshi dishes with a modern twist, and has gained a reputation for his innovative and delicious recipes.",
+        "recipes": [
+            {
+                "r_id": 1,
+                "recipe_name": "Bengali Fish Curry",
+                "ingredients": [
+                    "Fish",
+                    "Onion",
+                    "Tomato",
+                    "Mustard Oil",
+                    "Turmeric"
+                ],
+                "cooking_method": "1. Fry fish in mustard oil until golden brown. 2. Saute onions and tomatoes. 3. Add turmeric and cook for 2-3 minutes. 4. Add fish and simmer for 10-15 minutes.",
+                "rating": 4.8
+            },
+            {
+                "r_id": 2,
+                "recipe_name": "Chingri Bhapa",
+                "ingredients": [
+                    "Prawns",
+                    "Coconut Milk",
+                    "Green Chili",
+                    "Mustard Paste",
+                    "Salt"
+                ],
+                "cooking_method": "1. Mix prawns with coconut milk, green chili, mustard paste, and salt. 2. Pour the mixture into a greased dish. 3. Steam for 10-15 minutes. ",
+                "rating": 4.5
+            },
+            {
+                "r_id": 3,
+                "recipe_name": "Beef Rezala",
+                "ingredients": [
+                    "Beef",
+                    "Yogurt",
+                    "Onion",
+                    "Ginger Paste",
+                    "Garlic Paste"
+                ],
+                "cooking_method": "1. Fry onions until golden brown. 2. Add beef and cook until browned. 3. Add ginger and garlic paste and cook for 2-3 minutes. 4. Add yogurt and cook until the beef is tender.",
+                "rating": 4.3
+            }
+        ]
+    },
+    {
+        "c_id": 5,
+        "c_image": "https://example.com/chef.jpg",
+        "c_name": "Rahima Begum",
+        "year_of_experience": 12,
+        "num_of_recipes": 30,
+        "num_of_likes": 1200,
+        "c_description": "Rahima Begum is an experienced Bangladeshi chef with a passion for creating delicious and healthy meals. She has been cooking for over 12 years and specializes in traditional Bangladeshi cuisine. Her recipes are a fusion of flavors from all over Bangladesh.",
+        "recipes": [
+            {
+                "r_id": 1,
+                "recipe_name": "Mutton Kacchi Biryani",
+                "ingredients": [
+                    "Mutton",
+                    "Basmati Rice",
+                    "Onion",
+                    "Yogurt",
+                    "Spices"
+                ],
+                "cooking_method": "1. Marinate mutton with yogurt and spices. 2. Fry onions until golden brown. 3. Add marinated mutton and cook until tender. 4. Layer rice and mutton in a pot and cook on low heat until the rice is done.",
+                "rating": 4.8
+            },
+            {
+                "r_id": 2,
+                "recipe_name": "Chapli Kebab",
+                "ingredients": [
+                    "Minced Beef",
+                    "Onion",
+                    "Tomato",
+                    "Green Chili",
+                    "Spices"
+                ],
+                "cooking_method": "1. Mix minced beef with onion, tomato, green chili, and spices. 2. Shape into small patties. 3. Fry in oil until golden brown.",
+                "rating": 4.5
+            },
+            {
+                "r_id": 3,
+                "recipe_name": "Bhapa Pitha",
+                "ingredients": [
+                    "Rice Flour",
+                    "Coconut Milk",
+                    "Jaggery",
+                    "Cardamom",
+                    "Water"
+                ],
+                "cooking_method": "1. Mix rice flour with coconut milk, jaggery, cardamom, and water. 2. Pour the mixture into a greased dish. 3. Steam for 20-25 minutes.",
+                "rating": 4.3
+            }
+        ]
+    },
+    {
+        "c_id": 6,
+        "c_image": "https://example.com/chef1.jpg",
+        "c_name": "Rashida Ahmed",
+        "year_of_experience": 12,
+        "num_of_recipes": 25,
+        "num_of_likes": 1000,
+        "c_description": "Rashida Ahmed is a passionate Bangladeshi chef with 12 years of experience in cooking. She is known for her authentic and flavorful Bengali cuisine. Her recipes use traditional cooking techniques and fresh ingredients to create mouth-watering dishes.",
+        "recipes": [
+            {
+                "r_id": 1,
+                "recipe_name": "Prawn Malai Curry",
+                "ingredients": [
+                    "Prawns",
+                    "Coconut Milk",
+                    "Onion",
+                    "Garlic",
+                    "Ginger"
+                ],
+                "cooking_method": "1. Fry onions until golden brown. 2. Add garlic and ginger and cook for 2-3 minutes. 3. Add coconut milk and simmer for 5 minutes. 4. Add prawns and cook until done.",
+                "rating": 4.8
+            },
+            {
+                "r_id": 2,
+                "recipe_name": "Dhaka-style Chicken Bhuna",
+                "ingredients": [
+                    "Chicken",
+                    "Onion",
+                    "Tomato",
+                    "Green Chili",
+                    "Spices"
+                ],
+                "cooking_method": "1. Fry onions until golden brown. 2. Add chicken and cook until browned. 3. Add tomatoes and green chili and cook until the chicken is tender. 4. Add spices and cook for 2-3 minutes.",
+                "rating": 4.5
+            },
+            {
+                "r_id": 3,
+                "recipe_name": "Beef Kala Bhuna",
+                "ingredients": [
+                    "Beef",
+                    "Onion",
+                    "Garlic",
+                    "Ginger",
+                    "Spices"
+                ],
+                "cooking_method": "1. Fry onions until golden brown. 2. Add beef and cook until browned. 3. Add garlic and ginger and cook for 2-3 minutes. 4. Add spices and cook until the beef is tender.",
+                "rating": 4.3
+            }
+        ]
+    }
+]
