@@ -11,6 +11,11 @@ app.get('/', (req,res) =>{
 app.get('/data', (req,res) =>{
     res.send(data);
 })
+app.get('/data/:id', (req,res)=>{
+    const id = req.params.id;
+    const selectedChef = data.find(chef=> chef.c_id == id);
+    res.send(selectedChef);
+})
 app.listen(port, () =>{
     console.log(`Chefs API is running on port: ${port}`)
 });
