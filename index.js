@@ -5,6 +5,7 @@ const port = process.env.PORT || 5000;
 
 const chef = require('./data/chefdata.json');
 const hot = require('./data/hotitems.json');
+const quote = require('./data/quote.json');
 app.use(cors());
 app.get('/', (req,res) =>{
     res.send('Chefs zone is running')
@@ -14,6 +15,9 @@ app.get('/chef', (req,res) =>{
 })
 app.get('/hot', (req,res) =>{
     res.send(hot);
+})
+app.get('/quote', (req,res) =>{
+    res.send(quote);
 })
 app.get('/chef/:id', (req,res)=>{
     const id = parseInt(req.params.id);

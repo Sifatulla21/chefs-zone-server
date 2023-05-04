@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "image": "https://img.freepik.com/free-photo/female-chef-standing-with-crossed-arms-white-uniform-looking-happy_176474-13476.jpg?w=1380&t=st=1683205866~exp=1683206466~hmac=6957b5c3574aaad156e46cce9f894e956e687e4f6a5ad40ea772325bac3b72e5",
+      "name": "Farhana Rahman",
+      "quote": "Cooking is like love. It should be entered into with abandon or not at all"
+    },
+    {
+      "id": 2,
+      "image": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=1380&t=st=1683206090~exp=1683206690~hmac=71a8eaba11cf6523ad7e61d1f506d9620b5a538c9bdf20e5ee913147bca3e89a",
+      "name": "Rahat Rahman",
+      "quote": "Cooking is not a science but an art, mistakes are okay, messes are fine—the pleasure is in the creating and the sharing of the result"
+    },
+    {
+      "id": 3,
+      "image": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?w=1380&t=st=1683205821~exp=1683206421~hmac=27b935795cf6066e5d3dbcc5b7fdccbca37ef9ee0b8bfdb6d293a2249882e851",
+      "name": "Ayesha Ahmed",
+      "quote": "Good cooking is honest, sincere, and simple."
+    }
+  ]

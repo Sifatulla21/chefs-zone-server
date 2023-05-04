@@ -1,7 +1,7 @@
 [
     {
         "c_id": 1,
-        "c_image": "https://www.campusfrance.org/sites/default/files/styles/mobile_visuel_principal_page/public/AdobeStock_160024647_%C2%A9alfa27.jpeg?itok=1szz-x_y",
+        "c_image": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?w=1380&t=st=1683205821~exp=1683206421~hmac=27b935795cf6066e5d3dbcc5b7fdccbca37ef9ee0b8bfdb6d293a2249882e851",
         "c_name": "Ayesha Ahmed",
         "year_of_experience": 12,
         "num_of_recipes": 25,
@@ -11,7 +11,7 @@
             {
                 "r_id": 1,
                 "r_name": "Pitha",
-                "r_image": "https://i.ytimg.com/vi/nsw0Px-Pho8/maxresdefault.jpg",
+                "r_image": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2017/28-march/Sweet_Rice_Dumplings_Recipe_Mohura_Pitha-1.jpg",
                 "ingredients": "Rice Flour, Coconut, Jaggery, Cardamom , Oil"
                 ,
                 "cooking_method": "1. Mix rice flour, coconut, jaggery and cardamom. 2. Knead to make dough. 3. Make small balls and flatten. 4. Fry in oil until golden brown.",
@@ -20,7 +20,7 @@
             {
                 "r_id": 2,
                 "r_name": "Chingri Malai Curry",
-                "r_image": "https://i.ytimg.com/vi/nsw0Px-Pho8/maxresdefault.jpg",
+                "r_image": "https://i.ndtvimg.com/i/2017-04/prawn-curry-generic_650x400_51491898702.jpg",
                 "ingredients": "Prawns, Coconut Milk, Onion, Garlic, Ginger"
                 ,
                 "cooking_method": "1. Fry prawns until golden brown. 2. Saute onions, garlic and ginger. 3. Add coconut milk and cook for 10 minutes. 4. Add prawns and cook for another 5 minutes.",
@@ -29,7 +29,7 @@
             {
                 "r_id": 3,
                 "r_name": "Bhapa Pitha",
-                "r_image": "https://i.ytimg.com/vi/nsw0Px-Pho8/maxresdefault.jpg",
+                "r_image": "https://dailyasianage.com/library/2019/12/24/1577212228_4.jpg",
                 "ingredients": "Rice Flour, Jaggery, Coconut Milk, Cardamom, Water",
                 "cooking_method": "1. Mix rice flour, jaggery, coconut milk, cardamom and water. 2. Pour the mixture into a greased dish. 3. Steam for 30 minutes.",
                 "rating": 4.2
@@ -38,7 +38,7 @@
     },
     {
         "c_id": 2,
-        "c_image": "https://www.campusfrance.org/sites/default/files/styles/mobile_visuel_principal_page/public/AdobeStock_160024647_%C2%A9alfa27.jpeg?itok=1szz-x_y",
+        "c_image": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=1380&t=st=1683206090~exp=1683206690~hmac=71a8eaba11cf6523ad7e61d1f506d9620b5a538c9bdf20e5ee913147bca3e89a",
         "c_name": "Rahat Rahman",
         "year_of_experience": 15,
         "num_of_recipes": 30,
@@ -48,7 +48,7 @@
             {
                 "r_id": 1,
                 "r_name": "Beef Kala Bhuna",
-                "r_image": "https://i.ytimg.com/vi/nsw0Px-Pho8/maxresdefault.jpg",
+                "r_image": "https://www.daily-sun.com/assets/news_images/2019/08/05/Daily_Sun_8.jpg",
                 "ingredients": "Beef, Onion, Garlic, Ginger, Spices",
                 "cooking_method": "1. Fry onions until golden brown. 2. Add beef and cook until browned. 3. Add garlic and ginger and cook for 2-3 minutes. 4. Add spices and cook until the beef is tender.",
                 "rating": 4.3
@@ -56,7 +56,7 @@
             {
                 "r_id": 2,
                 "r_name": "Chapli Kebab",
-                "r_image": "https://i.ytimg.com/vi/nsw0Px-Pho8/maxresdefault.jpg",
+                "r_image": "https://www.masala.tv/wp-content/uploads/2015/07/peshawari-chapli-kabab-recipe.jpeg",
                 "ingredients": "Minced Beef, Onion, Tomato, Green Chili, Spices",
                 "cooking_method": "1. Mix minced beef with onion, tomato, green chili, and spices. 2. Shape into small patties. 3. Fry in oil until golden brown.",
                 "rating": 4.5
@@ -64,7 +64,7 @@
             {
                 "r_id": 3,
                 "r_name": "Bhapa Pitha",
-                "r_image": "https://i.ytimg.com/vi/nsw0Px-Pho8/maxresdefault.jpg",
+                "r_image": "https://dailyasianage.com/library/2019/12/24/1577212228_4.jpg",
                 "ingredients":"Rice Flour, Jaggery, Coconut Milk, Cardamom, Water",
                 "cooking_method": "1. Mix rice flour, jaggery, coconut milk, cardamom and water. 2. Pour the mixture into a greased dish. 3. Steam for 30 minutes.",
                 "rating": 4.2
@@ -73,7 +73,7 @@
     },
     {
         "c_id": 3,
-        "c_image": "https://www.campusfrance.org/sites/default/files/styles/mobile_visuel_principal_page/public/AdobeStock_160024647_%C2%A9alfa27.jpeg?itok=1szz-x_y",
+        "c_image": "https://img.freepik.com/free-photo/female-chef-standing-with-crossed-arms-white-uniform-looking-happy_176474-13476.jpg?w=1380&t=st=1683205866~exp=1683206466~hmac=6957b5c3574aaad156e46cce9f894e956e687e4f6a5ad40ea772325bac3b72e5",
         "c_name": "Farhana Rahman",
         "year_of_experience": 10,
         "num_of_recipes": 20,
@@ -83,7 +83,7 @@
             {
                 "r_id": 1,
                 "r_name": "Chicken Biryani",
-                "r_image": "https://i.ytimg.com/vi/nsw0Px-Pho8/maxresdefault.jpg",
+                "r_image": "https://static.toiimg.com/thumb/53096628.cms?width=1200&height=900",
                 "ingredients":"Basmati Rice, Chicken, Onion, Tomato, Spices",
                 "cooking_method": "1. Cook rice and chicken separately. 2. Mix together with sautéed onions, tomatoes and spices. 3. Cook for 10 minutes.",
                 "rating": 4.5
@@ -91,7 +91,7 @@
             {
                 "r_id": 2,
                 "r_name": "Fish Curry",
-                "r_image": "https://i.ytimg.com/vi/nsw0Px-Pho8/maxresdefault.jpg",
+                "r_image": "https://www.licious.in/blog/wp-content/uploads/2022/08/shutterstock_1810759399.jpg",
                 "ingredients":"Fish, Onion, Garlic ,Ginger ,Spices",
                 "cooking_method": "1. Fry fish until golden brown. 2. Saute onions, garlic and ginger. 3. Add spices and cook for 5 minutes. 4. Add fish and cook for another 10 minutes.",
                 "rating": 4.2
@@ -99,7 +99,7 @@
             {
                 "r_id": 3,
                 "r_name": "Lentil Soup",
-                "r_image": "https://i.ytimg.com/vi/nsw0Px-Pho8/maxresdefault.jpg",
+                "r_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_6qmZpHzL5W5AZNwU0W4-3JLC8JRtE_15Pg&usqp=CAU",
                 "ingredients": "Lentils ,Onion ,Garlic ,Ginger ,Spices",
                 "cooking_method": "1. Boil lentils until tender. 2. Saute onions, garlic and ginger. 3. Add spices and cook for 5 minutes. 4. Add lentils and cook for another 10 minutes.",
                 "rating": 4.0
@@ -108,7 +108,7 @@
     },
     {
         "c_id": 4,
-        "c_image": "https://www.campusfrance.org/sites/default/files/styles/mobile_visuel_principal_page/public/AdobeStock_160024647_%C2%A9alfa27.jpeg?itok=1szz-x_y",
+        "c_image": "https://img.freepik.com/free-photo/confident-young-male-cook-chef-uniform-standing-pointing-white-wall-isolated-orange-wall-with-copy-space_141793-101281.jpg?w=1380&t=st=1683207325~exp=1683207925~hmac=7b672d521b5dbb4acdda0c473cce5ee9c31ed484f4ea2e72f4a7bd948fbeafeb",
         "c_name": "Nazrul Islam",
         "year_of_experience": 10,
         "num_of_recipes": 20,
@@ -118,7 +118,7 @@
             {
                 "r_id": 1,
                 "r_name": "Bengali Fish Curry",
-                "r_image": "https://i.ytimg.com/vi/nsw0Px-Pho8/maxresdefault.jpg",
+                "r_image": "https://www.licious.in/blog/wp-content/uploads/2022/08/shutterstock_1810759399.jpg",
                 "ingredients": "Fish ,Onion ,Tomato ,Mustard Oil ,Turmeric",
                 "cooking_method": "1. Fry fish in mustard oil until golden brown. 2. Saute onions and tomatoes. 3. Add turmeric and cook for 2-3 minutes. 4. Add fish and simmer for 10-15 minutes.",
                 "rating": 4.8
@@ -126,7 +126,7 @@
             {
                 "r_id": 2,
                 "r_name": "Chingri Bhapa",
-                "r_image": "https://i.ytimg.com/vi/nsw0Px-Pho8/maxresdefault.jpg",
+                "r_image": "https://i.ndtvimg.com/i/2017-04/prawn-curry-generic_650x400_51491898702.jpg",
                 "ingredients": "Prawns, Coconut Milk, Green Chili, Mustard Paste, Salt",
                 "cooking_method": "1. Mix prawns with coconut milk, green chili, mustard paste, and salt. 2. Pour the mixture into a greased dish. 3. Steam for 10-15 minutes. ",
                 "rating": 4.5
@@ -134,7 +134,7 @@
             {
                 "r_id": 3,
                 "r_name": "Beef Rezala",
-                "r_image": "https://i.ytimg.com/vi/nsw0Px-Pho8/maxresdefault.jpg",
+                "r_image": "https://i2.wp.com/petukcouple.com/wp-content/uploads/2022/01/Beef-Rezala-Recipe.jpeg?resize=960%2C540&ssl=1",
                 "ingredients": "Beef ,Yogurt ,Onion ,Ginger Paste ,Garlic Paste",
                 "cooking_method": "1. Fry onions until golden brown. 2. Add beef and cook until browned. 3. Add ginger and garlic paste and cook for 2-3 minutes. 4. Add yogurt and cook until the beef is tender.",
                 "rating": 4.3
@@ -143,7 +143,7 @@
     },
     {
         "c_id": 5,
-        "c_image": "https://www.campusfrance.org/sites/default/files/styles/mobile_visuel_principal_page/public/AdobeStock_160024647_%C2%A9alfa27.jpeg?itok=1szz-x_y",
+        "c_image": "https://img.freepik.com/free-photo/young-female-cooking-white-cook-suit-white-cap-smiling-surprised_140725-16464.jpg?w=1380&t=st=1683205981~exp=1683206581~hmac=067370ccefd9314da403e10efe8354a84e9efb5e360aa25c821911a0139a12e2",
         "c_name": "Rahima Begum",
         "year_of_experience": 12,
         "num_of_recipes": 30,
@@ -153,7 +153,7 @@
             {
                 "r_id": 1,
                 "r_name": "Mutton Kacchi Biryani",
-                "r_image": "https://i.ytimg.com/vi/nsw0Px-Pho8/maxresdefault.jpg",
+                "r_image": "https://recipesaresimple.com/wp-content/uploads/2013/03/chicken-biryani.jpg",
                 "ingredients": "Mutton ,Basmati Rice ,Onion ,Yogurt ,Spices",
                 "cooking_method": "1. Marinate mutton with yogurt and spices. 2. Fry onions until golden brown. 3. Add marinated mutton and cook until tender. 4. Layer rice and mutton in a pot and cook on low heat until the rice is done.",
                 "rating": 4.8
@@ -161,7 +161,7 @@
             {
                 "r_id": 2,
                 "r_name": "Chapli Kebab",
-                "r_image": "https://i.ytimg.com/vi/nsw0Px-Pho8/maxresdefault.jpg",
+                "r_image": "https://www.masala.tv/wp-content/uploads/2015/07/peshawari-chapli-kabab-recipe.jpeg",
                 "ingredients":"Minced Beef, Onion, Tomato, Green Chili, Spices",
                 "cooking_method": "1. Mix minced beef with onion, tomato, green chili, and spices. 2. Shape into small patties. 3. Fry in oil until golden brown.",
                 "rating": 4.5
@@ -169,7 +169,7 @@
             {
                 "r_id": 3,
                 "r_name": "Bhapa Pitha",
-                "r_image": "https://i.ytimg.com/vi/nsw0Px-Pho8/maxresdefault.jpg",
+                "r_image": "https://dailyasianage.com/library/2019/12/24/1577212228_4.jpg",
                 "ingredients": "Rice Flour ,Coconut Milk ,Jaggery ,Cardamom ,Water",
                 "cooking_method": "1. Mix rice flour with coconut milk, jaggery, cardamom, and water. 2. Pour the mixture into a greased dish. 3. Steam for 20-25 minutes.",
                 "rating": 4.3
@@ -178,7 +178,7 @@
     },
     {
         "c_id": 6,
-        "c_image": "https://www.campusfrance.org/sites/default/files/styles/mobile_visuel_principal_page/public/AdobeStock_160024647_%C2%A9alfa27.jpeg?itok=1szz-x_y",
+        "c_image": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-holding-big-silver-spoon-white-wall_140725-59195.jpg?w=1380&t=st=1683206023~exp=1683206623~hmac=3bed7e946ad38edab921cb658e70ab0455808014a2c442f06adb999527db4e3a",
         "c_name": "Rashida Ahmed",
         "year_of_experience": 12,
         "num_of_recipes": 25,
@@ -188,7 +188,7 @@
             {
                 "r_id": 1,
                 "r_name": "Prawn Malai Curry",
-                "r_image": "https://i.ytimg.com/vi/nsw0Px-Pho8/maxresdefault.jpg",
+                "r_image": "https://i.ndtvimg.com/i/2017-04/prawn-curry-generic_650x400_51491898702.jpg",
                 "ingredients":"Prawns ,Coconut Milk ,Onion ,Garlic ,Ginger",
                 "cooking_method": "1. Fry onions until golden brown. 2. Add garlic and ginger and cook for 2-3 minutes. 3. Add coconut milk and simmer for 5 minutes. 4. Add prawns and cook until done.",
                 "rating": 4.8
@@ -196,7 +196,7 @@
             {
                 "r_id": 2,
                 "r_name": "Dhaka-style Chicken Bhuna",
-                "r_image": "https://i.ytimg.com/vi/nsw0Px-Pho8/maxresdefault.jpg",
+                "r_image": "https://static.toiimg.com/photo/83942719.cms",
                 "ingredients":"Chicken ,Onion ,Tomato ,Green Chili ,Spices",
                 "cooking_method": "1. Fry onions until golden brown. 2. Add chicken and cook until browned. 3. Add tomatoes and green chili and cook until the chicken is tender. 4. Add spices and cook for 2-3 minutes.",
                 "rating": 4.5
@@ -204,7 +204,7 @@
             {
                 "r_id": 3,
                 "r_name": "Beef Kala Bhuna",
-                "r_image": "https://i.ytimg.com/vi/nsw0Px-Pho8/maxresdefault.jpg",
+                "r_image": "https://www.daily-sun.com/assets/news_images/2019/08/05/Daily_Sun_8.jpg",
                 "ingredients":"Beef ,Onion ,Garlic ,Ginger ,Spices",
                 "cooking_method": "1. Fry onions until golden brown. 2. Add beef and cook until browned. 3. Add garlic and ginger and cook for 2-3 minutes. 4. Add spices and cook until the beef is tender.",
                 "rating": 4.3

@@ -1,17 +1,20 @@
 [
     {
       "id": 1,
-      "image": "https://i.ytimg.com/vi/nsw0Px-Pho8/maxresdefault.jpg",
-      "name": "Hilsha Fish Curry"
+      "image": "https://www.licious.in/blog/wp-content/uploads/2022/08/shutterstock_1810759399.jpg",
+      "name": "Hilsha Fish Curry",
+      "description": "Spicy and tangy Bengali fish curry made with marinated Hilsha fish, onions, tomatoes, and a blend of aromatic spices."
     },
     {
       "id": 2,
-      "image": "https://i.ytimg.com/vi/nsw0Px-Pho8/maxresdefault.jpg",
-      "name": "Beef Bhuna"
+      "image": "https://i2.wp.com/petukcouple.com/wp-content/uploads/2022/01/Beef-Rezala-Recipe.jpeg?resize=960%2C540&ssl=1",
+      "name": "Beef Bhuna",
+      "description": "A spicy and aromatic South Asian dish made with marinated beef, onions, tomatoes, and a blend of spices, often served with naan or rice."
     },
     {
       "id": 3,
-      "image": "https://i.ytimg.com/vi/nsw0Px-Pho8/maxresdefault.jpg",
-      "name": "Chicken Biriyani"
+      "image": "https://static.toiimg.com/thumb/53096628.cms?width=1200&height=900",
+      "name": "Chicken Biriyani",
+      "description": "A flavorful South Asian rice dish made with spiced chicken and fragrant basmati rice, often served with raita and/or curry."
     }
   ]
